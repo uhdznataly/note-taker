@@ -39,6 +39,11 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
+<img width="1120" alt="Screenshot 2023-02-19 at 3 28 53 PM" src="https://user-images.githubusercontent.com/112514096/219976898-4b72712c-8890-4155-8fd8-66ec42fed7f6.png">
+
+<img width="1416" alt="Screenshot 2023-02-19 at 3 29 05 PM" src="https://user-images.githubusercontent.com/112514096/219976932-8f5efe09-ff75-4d74-a66d-4e115a8f8805.png">
+
+
 
 ## Tests
 
